@@ -1,0 +1,100 @@
+@media (max-width:570px){
+    .bottom .con {
+width: 200%;        
+    }
+    .PARTNERS{
+        text-align: center;
+    }
+}
+@media (max-width:1100px){
+.car1-person img{
+    margin-left: 10px !important;
+}
+
+}
+@media (max-width:770px){
+  .facts h1 {
+    font-size: 50px;
+  }
+  .facts {
+    background-position-x: -300px;
+   padding: 0 !important;
+  }
+  .offer{
+    margin-bottom: 10px !important;
+  }
+  .work .col-md-4 {
+    margin-bottom: 10px;
+    margin-right: 5px;
+  }
+    }
+    @media (max-width:770px){
+  .facts h1 {
+    font-size: 50px;
+  }
+  .facts {
+    background-position-x: -300px;
+   padding: 0 !important;
+  }
+  .offer{
+    margin-bottom: 10px !important;
+  }
+  .work .col-md-4 {
+    margin-bottom: 10px;
+    margin-right: 5px;
+  }
+  .photo #carouselExampleIndicatorsabout{
+    text-align: center;
+  }
+    }
+ 
+    @media (max-width:991px){
+      .navbar{
+        top: 65px;
+      }
+      #carouselExampleIndicators  h2{
+        font-size: 40px;
+      }
+      #carouselExampleIndicators  h3{
+        font-size: 30px;
+      }
+        }
+        @media (max-width:498px){
+          .navbar{
+            top: 92px;
+          }
+          #carouselExampleIndicators  h2{
+            font-size: 30px;
+          }
+          #carouselExampleIndicators  h3{
+            font-size: 25px;
+          }
+          .contractors h3 {
+            font-size: 14px;
+          }
+          .contractors button{
+padding: 10px !important;  
+font-size: 12px;        }
+            }
+            @media (max-width:322px){
+              .navbar{
+                top: 130px;
+              }
+             #carouselExampleIndicators h2{
+                font-size: 20px;
+              }
+              #carouselExampleIndicators  h3{
+                font-size: 20px;
+              }
+              .about-2 {
+                margin-top: 150px;
+              }
+                }
+
+                @media (max-width:565px){
+              
+                  .item {
+                   
+                    margin-right: 15px;
+                  }
+                    }
